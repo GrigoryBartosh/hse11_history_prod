@@ -2,7 +2,10 @@ __pycache__/
 .ipynb_checkpoints
 
 data/
+tmp/
 
 *.out
 
 catboost_info/
+
+wandb/
