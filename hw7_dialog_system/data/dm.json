@@ -1,0 +1,13 @@
+{
+    "intent_0_start": "answer_0_start",
+    "intent_1_not_understand": "answer_1_not_understand",
+    "intent_2_hi": "answer_2_hi",
+    "intent_3_buy": "answer_3_buy",
+    "intent_4_get_weather": "answer_4_get_weather",
+    "intent_5_book_restaurant": "answer_5_book_restaurant",
+    "intent_6_play_music": "answer_6_play_music",
+    "intent_7_add_to_playlist": "answer_7_add_to_playlist",
+    "intent_8_rate_book": "answer_8_rate_book",
+    "intent_9_search_screening_event": "answer_9_search_screening_event",
+    "intent_10_search_creative_work": "answer_10_search_creative_work"
+}

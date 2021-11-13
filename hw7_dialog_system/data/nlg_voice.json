@@ -1,0 +1,13 @@
+{
+    "answer_0_start": "data/voices/answer_0_start.ogg",
+    "answer_1_not_understand": "data/voices/answer_1_not_understand.ogg",
+    "answer_2_hi": "data/voices/answer_2_hi.ogg",
+    "answer_3_buy": "data/voices/answer_3_buy.ogg",
+    "answer_4_get_weather": "data/voices/answer_4_get_weather.ogg",
+    "answer_5_book_restaurant": "data/voices/answer_5_book_restaurant.ogg",
+    "answer_6_play_music": "data/voices/answer_6_play_music.ogg",
+    "answer_7_add_to_playlist": "data/voices/answer_7_add_to_playlist.ogg",
+    "answer_8_rate_book": "data/voices/answer_8_rate_book.ogg",
+    "answer_9_search_screening_event": "data/voices/answer_9_search_screening_event.ogg",
+    "answer_10_search_creative_work": "data/voices/answer_10_search_creative_work.ogg"
+}
